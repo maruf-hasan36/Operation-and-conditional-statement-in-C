@@ -1,1 +1,1 @@
-division = 10.008746
+Modolus = 2
